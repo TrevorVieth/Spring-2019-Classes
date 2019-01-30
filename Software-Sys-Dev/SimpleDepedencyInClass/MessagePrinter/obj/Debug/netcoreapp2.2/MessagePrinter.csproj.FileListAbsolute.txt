@@ -1,0 +1,11 @@
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\bin\Debug\netcoreapp2.2\MessagePrinter.deps.json
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\bin\Debug\netcoreapp2.2\MessagePrinter.runtimeconfig.json
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\bin\Debug\netcoreapp2.2\MessagePrinter.runtimeconfig.dev.json
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\bin\Debug\netcoreapp2.2\MessagePrinter.dll
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\bin\Debug\netcoreapp2.2\MessagePrinter.pdb
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.csprojAssemblyReference.cache
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.csproj.CoreCompileInputs.cache
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.AssemblyInfoInputs.cache
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.AssemblyInfo.cs
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.dll
+c:\SP-19-Classes\Software-Sys-Dev\SimpleDepedencyInClass\MessagePrinter\obj\Debug\netcoreapp2.2\MessagePrinter.pdb
