@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Trevor\\OneDrive\\School\\WT-stuff\\1-SP19-Mobile App Dev\\Vieth Assignment 1\\Vieth Assignment 1 Code\\Vieth Assignment 1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
