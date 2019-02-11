@@ -1,0 +1,99 @@
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.deps.json
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.json
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.dev.json
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.dll
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csprojAssemblyReference.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfo.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.input.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.output.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorCoreGenerate.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cache
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CopyComplete
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home1.g.cshtml.cs
+C:\Users\Trevor\Desktop\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Pizza Selection.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.deps.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.dev.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csprojAssemblyReference.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.input.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.output.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorCoreGenerate.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home1.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CopyComplete
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.deps.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.runtimeconfig.dev.json
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\bin\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csprojAssemblyReference.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorAssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.AssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.input.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.TagHelpers.output.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorCoreGenerate.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home1.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cache
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.RazorTargetAssemblyInfo.cs
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.Views.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.dll
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.pdb
+C:\Users\Trevor\OneDrive\School\WT-stuff\1-SP19-Mobile App Dev\Vieth Assignment 1\Vieth Assignment 1 Code\obj\Debug\netcoreapp2.1\Vieth Assignment 1.csproj.CopyComplete

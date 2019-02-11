@@ -1,7 +1,7 @@
 using System;
 namespace MessagePrinter
 {
-    public class MessagePrintingService : IMessagePrinter
+    public class MessagePrintingService
     {
 
         public string Message{get; set;} = "Default";
