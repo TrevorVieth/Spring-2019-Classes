@@ -1,9 +1,9 @@
 
-var root = document.getElementById('root');
+// var root = document.getElementById('root');
 
-var content = React.createElement('i', {}, "Goodby there");
+// var content = React.createElement('i', {}, "Goodby there");
 
 
 
-ReactDOM.render(content, root);
+// ReactDOM.render(content, root);
      
