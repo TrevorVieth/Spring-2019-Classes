@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\SP-19-Classes\\Software-Sys-Dev\\SimpleDepedencyInClass\\MessagePrinter\\MessagePrinter.csproj",
+  "ProjectFilePath": "c:\\Spring-2019-Classes\\Software-Sys-Dev\\SimpleDepedencyInClass\\MessagePrinter\\MessagePrinter.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
