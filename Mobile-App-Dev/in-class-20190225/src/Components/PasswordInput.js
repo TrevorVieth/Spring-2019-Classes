@@ -42,7 +42,7 @@ class PasswordInput extends Component {
                     onChange={this.onPasswordChange}
                     placeholder="Requires 8 characters with at least one number, one uppercase letter, and lowercase letter" 
                     type="password"
-                    // pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"          // Requires 8 characters with at least one number, one uppercase letter, and one lowercase letter
+                    pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"          // Requires 8 characters with at least one number, one uppercase letter, and one lowercase letter
                     value={this.state.password}  />
             </div>
         );
